@@ -1,0 +1,4 @@
+{
+    "Port" : "3000",
+    "huggingFaceURL" : "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
+}
